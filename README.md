@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Wilhelm
-#### Welcome to my profile!
 
-Skills: VUE JS / REACT / JS / HTML / CSS / NODEJS / MYSQL / AWS / GCP
+I a curious person who enjoys looking into the black box and thinking outside it. My career is engineering software with a focus on developer and user experience. I'm always ready for a challenge and I have a knack for accomplishing the seemingly impossible.
+
+
+Skills: REACT / JS / HTML / CSS / NODEJS / MYSQL / AWS / GCP
 
 - 🔭 I’m currently working on building [Develocks](https://develocks.dev/) 
 - 📫 How to reach me: Check @erasmuswill on your favourite social platform 

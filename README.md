@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Wilhelm
 
-I a curious person who enjoys looking into the black box and thinking outside it. My career is engineering software with a focus on developer and user experience. I'm always ready for a challenge and I have a knack for accomplishing the seemingly impossible.
+Highly skilled software engineer with 7.5 years of experience, specializing in Javascript/Typescript and passionate about user experience. Proficient in React and Express frameworks. Committed to improving productivity and developer experience across projects. Strong track record of tackling challenges head-on and achieving seemingly impossible goals.
 
 
 Skills: REACT / JS / HTML / CSS / NODEJS / MYSQL / AWS / GCP

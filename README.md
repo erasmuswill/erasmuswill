@@ -5,7 +5,7 @@ Highly skilled software engineer with 7.5 years of experience, specializing in J
 
 Skills: REACT / JS / HTML / CSS / NODEJS / MYSQL / AWS / GCP
 
-- 🔭 I’m currently working on building [Develocks](https://develocks.dev/) 
+- 🔭 I’m currently working on building [Tend2It](https://tend2it.co.za/) 
 - 📫 How to reach me: Check @erasmuswill on your favourite social platform 
 
 
